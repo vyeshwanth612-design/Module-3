@@ -45,7 +45,8 @@ for i in range(n):
     print()
 ```
 ## Sample Output
-![Uploading image.png…]()
+<img width="575" height="413" alt="image" src="https://github.com/user-attachments/assets/16198dfa-c88b-4c32-a942-332177027075" />
+
 
 
 ## Result
